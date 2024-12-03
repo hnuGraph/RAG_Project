@@ -1,38 +1,40 @@
 本项目的文件结构如下:
 
-> |-- image
->
-> ​        |-- environment.yml 环境依赖
->
-> ​        |-- run.sh 执行脚本   
->
-> |-- data
->
-> ​        |-- raw_data
->
-> ​                |-- 比赛的数据集文件
->
-> ​        |-- user_data
->
-> ​                |-- 模型文件（需自己下载）
->
-> ​                |-- 中间文件、数据、模型权重等
->
-> ​        |-- prediction_result
->
-> ​                |-- result.json
->
-> ​        |-- code
->
-> ​                |-- 项目代码  
->
-> ​        |-- README.md  代码说明+项目运行流程介绍
->
-> |-- 技术报告
->
-> ​        |-- 技术报告.word
->
-> |-- README.md
+```markdown
+|-- image
+
+​        |-- environment.yml 环境依赖
+
+​        |-- run.sh 执行脚本   
+
+|-- data
+
+​        |-- raw_data
+
+​                |-- 比赛的数据集文件
+
+​        |-- user_data
+
+​                |-- 模型文件（需自己下载）
+
+​                |-- 中间文件、数据、模型权重等
+
+​        |-- prediction_result
+
+​                |-- result.json
+
+​        |-- code
+
+​                |-- 项目代码  
+
+​        |-- README.md  代码说明+项目运行流程介绍
+
+|-- 技术报告
+
+​        |-- 技术报告.word
+
+|-- README.md
+```
 
 
 
